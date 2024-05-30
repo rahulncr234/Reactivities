@@ -5,3 +5,7 @@ global using Persistence;
 global using MediatR;
 global using Application.Activities;
 global using API.Extensions;
+global using Application.Core;
+global using FluentValidation;
+global using FluentValidation.AspNetCore;
+global using API.Middleware;
